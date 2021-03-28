@@ -32,3 +32,12 @@ body{
     color: #fff;
     padding-left: 10%;
 } 
+.out{
+    background-color: #000;
+    border: none;
+    height: 6 px;
+    color: #fff;
+}
+.link{
+    color: rgb(91, 130, 238);
+}
