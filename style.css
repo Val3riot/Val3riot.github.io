@@ -1,0 +1,34 @@
+
+
+body{
+    background-color: #000;
+}
+
+.logo{
+    font-size: medium;
+    padding-top: 4%;
+    color: #fff;
+    padding-left: 2%;
+}
+
+#time{
+    font-size: small;
+}
+
+.report{
+    padding-left: 1%;
+    color: #60b568;
+    font-weight: bold;
+    font-size: 15px;
+}
+.report .white{
+    color: #fff;
+}
+.report .blue{
+    color: rgb(91, 130, 238);
+}
+.report .text {
+    font-weight: lighter;
+    color: #fff;
+    padding-left: 10%;
+}
