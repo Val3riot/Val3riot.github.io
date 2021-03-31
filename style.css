@@ -39,5 +39,11 @@ body{
     color: #fff;
 }
 .link{
-    color: rgb(91, 130, 238);
+    color: rgb(rgb(126, 145, 248), green, blue);
+}
+hr.other{
+    height:1px;
+    border:none;
+    color:#333;
+    background-color:#333;
 }
